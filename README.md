@@ -1,3 +1,3 @@
 # ML-Algorithms
 
-Set of different ML algorithms
+Set of relevant ML algorithms such as: K-means, Perceptron, or Multivariate Linear Regression
